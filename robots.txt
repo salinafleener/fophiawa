@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofaemuthe.patrickmcelhaney.com/sitemap.xml
